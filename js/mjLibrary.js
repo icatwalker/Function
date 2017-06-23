@@ -1,7 +1,7 @@
 /**
  * Created by Administrator on 2017/6/15.
  */
-
+//14:04测试
 //创建和调用都可以链式操作
 Function.prototype.addself=function(name,fn){//prototype指向 实例出来的对象
     this[name]=fn;                           //可以实现为 实例化的对象添加方法。
